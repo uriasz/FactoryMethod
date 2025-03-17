@@ -2,7 +2,7 @@ abstract class NotificationFactory {
     public abstract Notification createNotification();
 }
 
-// Fábricas concretas para cada tipo de notificação
+
 class EmailNotificationFactory extends NotificationFactory {
     @Override
     public Notification createNotification() {
