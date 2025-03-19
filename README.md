@@ -106,6 +106,13 @@ Ou, caso esteja utilizando um ambiente de desenvolvimento, execute a classe de t
 ── ⋆⋅☆⋅⋆ ── ── ⋆⋅☆⋅⋆ ──────⋆⋅☆⋅⋆──── ⋆⋅☆⋅⋆ ── ── ⋆⋅☆⋅⋆ ──────⋆⋅☆⋅⋆──── ⋆⋅☆⋅⋆ ── ── ⋆⋅☆⋅⋆ ──────⋆⋅☆⋅⋆────
 
 
+## ୨୧ ‧₊° 5. Diagrama de classes
+
+![Imagem do WhatsApp de 2025-03-19 à(s) 14 33 22_e19ab088](https://github.com/user-attachments/assets/1c7da90b-c7b9-460a-a4e4-3e73d9f25a02)
+
+
+── ⋆⋅☆⋅⋆ ── ── ⋆⋅☆⋅⋆ ──────⋆⋅☆⋅⋆──── ⋆⋅☆⋅⋆ ── ── ⋆⋅☆⋅⋆ ──────⋆⋅☆⋅⋆──── ⋆⋅☆⋅⋆ ── ── ⋆⋅☆⋅⋆ ──────⋆⋅☆⋅⋆────
+
 ## ୨୧ ‧₊° 5. Conclusão
 O projeto implementa o **Factory Method** de forma clara e eficiente, permitindo fácil extensão para novos tipos de notificações. Os testes garantem a confiabilidade do código, e a estrutura modular facilita manutenção e escalabilidade.
 
