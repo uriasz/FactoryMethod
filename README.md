@@ -113,7 +113,7 @@ Ou, caso esteja utilizando um ambiente de desenvolvimento, execute a classe de t
 
 ── ⋆⋅☆⋅⋆ ── ── ⋆⋅☆⋅⋆ ──────⋆⋅☆⋅⋆──── ⋆⋅☆⋅⋆ ── ── ⋆⋅☆⋅⋆ ──────⋆⋅☆⋅⋆──── ⋆⋅☆⋅⋆ ── ── ⋆⋅☆⋅⋆
 
-## ୨୧ ‧₊° 5. Conclusão
+## ୨୧ ‧₊° 6. Conclusão
 O projeto implementa o **Factory Method** de forma clara e eficiente, permitindo fácil extensão para novos tipos de notificações. Os testes garantem a confiabilidade do código, e a estrutura modular facilita manutenção e escalabilidade.
 
 Caso novas notificações precisem ser adicionadas no futuro, basta criar uma nova implementação e uma respectiva fábrica, sem modificar o código existente. Dessa forma, o sistema mantém um alto nível de flexibilidade e modularidade.
